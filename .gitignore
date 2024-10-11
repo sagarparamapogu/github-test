@@ -3,6 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 pom.xml
+github-test
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
